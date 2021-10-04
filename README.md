@@ -1,7 +1,7 @@
 #  Test October 2021
 
 ##  Links
-- `Repository` https://github.com/andrey-omsk-63/test-october-2021.git
+- `Repository` https://github.com/andreyomsk-63/test-october-2021.git
 
 ---
 
